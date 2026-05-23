@@ -14,6 +14,7 @@ interested in answering and identify data needed to answer the questions
 
 
 This miniproject I had decided to obtain a weather dataset from BigQuery API and proceed to look at the data of tornadoes and how it is distributed 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Miniproject2 ##
 
